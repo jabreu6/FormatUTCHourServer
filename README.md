@@ -1,6 +1,7 @@
-# server
+# PROBLEMA II
+# SERVER
 
-App Server que contiene las peticiones POST encargar de hacer la conversión de fecha
+App Server que contiene las peticiones POST encargadas de hacer la conversión de fecha
 
 Tecnologias:
 JavaScript
